@@ -56,12 +56,3 @@ python -m flask run --without-threads
 * Python / Flask
 * OpenCv
 * P5.js
-
-## Authors
-
-* **Matheus Cunha Reis** - [GitHub](https://github.com/matheuscr30) ✌
-* **João Daniel Rufino** - [GitHub](https://github.com/JoaoDanielRufino)
-* **Pedro Henrique Teixeira** - [GitHub](https://github.com/pedroteixeirazup)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
